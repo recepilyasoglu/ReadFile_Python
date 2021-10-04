@@ -1,5 +1,5 @@
-# Pythonla-Excel-dosyasi-okumak
+# Pythonla-Excel-dosyasi-ve-db-den-tablo-okumak
 
-Pythonla Excel dosyası okumak ve sonrasından
+Pythonla Excel dosyası okumak ve Db den de tablo okumak 
 
-Reading Excel file with Python
+Reading Excel file and reading table from Db with Python
