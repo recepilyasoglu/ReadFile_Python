@@ -19,14 +19,7 @@ def dosyayıOku():
 
 dosyayıOku()
 
-# Dosya Silme 
-import sqlite3
 
-
-connection = sqlite3.connect("ddl.db")
-cursor = connection.execute("DELETE FROM recep")
-connection.commit()
-connection.close()
 
 
     
