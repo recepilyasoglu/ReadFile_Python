@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 
-# import pandas as pd
+# Excel Dosyasını Okuma
 
-# data1 = pd.read_excel("dwa_police_report_20180924.xlsx")
+import pandas as pd
 
-# print(data1)
+data1 = pd.read_excel("dwa_police_report_20180924.xlsx")
 
-# Dosya Okuma
+print(data1)
+
+# db den tablo okumak
 import sqlite3
 
 def dosyayıOku():
