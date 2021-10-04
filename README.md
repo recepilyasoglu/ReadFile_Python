@@ -1,5 +1,5 @@
-# Pythonla-Excel-dosyasi-okumak-ve-Db-den-silme
+# Pythonla-Excel-dosyasi-okumak
 
-Pythonla Excel dosyası okumak ve sonrasından bunu Db den silmek
+Pythonla Excel dosyası okumak ve sonrasından
 
-Reading Excel file with Python and then deleting it from Db
+Reading Excel file with Python
