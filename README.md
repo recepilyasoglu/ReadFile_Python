@@ -1,4 +1,4 @@
-# Pythonla-Excel-dosyasi-ve-db-den-tablo-okumak
+# Pythonla-Basit-Düzeyde-Dosya-Okumak
 
 Pythonla Excel dosyası okumak ve Db den de tablo okumak 
 
